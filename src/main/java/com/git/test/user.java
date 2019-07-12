@@ -9,4 +9,6 @@ public class user {
     private String name;
     private int age;
     private int a;
+    //wgw
+    private String  wgw;
 }
